@@ -1,7 +1,7 @@
 # Training
 
 
-Afroz khan	15.206.185.111
+Afroz khan	15.206.185.111 <br>
 Raj Sharma 	13.232.235.38
 Tony Ji	15.207.249.23
 Ravish Kumar	15.207.117.129
